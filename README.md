@@ -1,12 +1,12 @@
-### Olá!👋
-#### Eu sou o Júlio Matias! Desenvolvedor FullStack 👩🏻‍💻 Formando em Ciência da Computação 😍 Apaixonado por TI!
-Atualmente, estou me formando em desenvolvimento FullStack pela Trybe e cursando Ciência da Computação pela Faculdade Descomplica, onde tive a oportunidade de adquirir experiência em tecnologias como TypeScript, React, Styled Components, Context API, Hooks, Redux, Docker, SQL, POO, entre outras.
+### Hi!👋
+#### I'm Júlio Matias! FullStack Developer 👩🏻‍💻 Majoring in Computer Science 😍 Passionate about IT!I'm currently graduating in FullStack development from Trybe and studying Computer 
+Currently, I'm completing my FullStack Development course at Trybe and studying Computer Science at Faculdade Descomplica, where I've had the opportunity to gain experience in technologies such as TypeScript, React, Styled Components, Context API, Hooks, Redux, Docker, SQL, OOP, among others.
 
-Em busca de transição de carreira, sou altamente adaptável e adoro buscar resolver e entender cada problema ou desafio.
+In pursuit of a career transition, I am highly adaptable and love to seek solutions and understand each problem or challenge.
 
-Meu principal objetivo é sempre desenvolver os projetos pelas melhores práticas que aprendi durante minha formação, buscando sempre me adaptar e aprender com cada oportunidade obtida.
+My main goal is always to develop projects following the best practices I've learned during my education, always seeking to adapt and learn from each opportunity obtained.
 
-### Stacks que Domino:
+### Stacks I Dominate:
 
 <div style="display: inline_block">
   <img align="center" alt="julio-js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" title="JavaScript">
