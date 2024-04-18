@@ -1,5 +1,5 @@
 ### Hi!👋
-#### I'm Júlio Matias! FullStack Developer 👩🏻‍💻 Majoring in Computer Science 😍 Passionate about IT! I'm currently graduating in FullStack development from Trybe and studying Computer 
+#### I'm Júlio Matias! FullStack Developer 👩🏻‍💻 Majoring in Computer Science 😍 Passionate about IT!
 Currently, I'm completing my FullStack Development course at Trybe and studying Computer Science at Faculdade Descomplica, where I've had the opportunity to gain experience in technologies such as TypeScript, React, Styled Components, Context API, Hooks, Redux, Docker, SQL, POO, among others.
 
 In pursuit of a career transition, I am highly adaptable and love to seek solutions and understand each problem or challenge.
