@@ -25,7 +25,7 @@ My main goal is to develop projects following the best practices I've learned du
 
 ### Contact
 
-email: [mailto:juliocesark2@hotmail.com]
+email: (mailto:juliocesark2@hotmail.com)
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
