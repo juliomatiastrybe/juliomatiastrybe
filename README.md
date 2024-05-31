@@ -23,6 +23,10 @@ My main goal is to develop projects following the best practices I've learned du
   <img align="center" alt="julio-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS">  
 </div>
 
+### Contact
+
+email: [mailto:juliocesark2@hotmail.com]
+
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Top langs :tongue:</h4>
